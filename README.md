@@ -1,4 +1,4 @@
-## Welcome to my GitHub!👋
+## Overview
 
 My name is Christopher Steven Lewicki and I am a data scientist who is passionate about leveraging Python programming, exploratory data analysis, and machine learning models to help companies make data-driven decisions that increase profits, enhance efficiency, and refine business practices. Thanks in large part to my 5+ years of experience as a high school mathematics teacher and test prep tutor, I am proficient in communicating data insights in an easy-to-digest manner. I am proud of my reputation as a responsible, thorough, and inquisitive professional who is always eager to learn more data science skills. I invite you to connect with me on [LinkedIn](https://www.linkedin.com/in/christopherslewicki/).
 
