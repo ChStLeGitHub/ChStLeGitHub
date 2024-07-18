@@ -10,6 +10,10 @@ My name is Christopher Steven Lewicki and I am a data scientist who is passionat
 
 **Machine Learning:** Gradient Boosting Algorithms (CatBoost, LightGBM, and XGBoost), K-Nearest Neighbors (K-NN), Regressions (Linear, Logistic), Tree-Based Models (Decision Tree, Random Forest)
 
+## Projects
+
+I invite you to look through my repositories to view my projects, in which I showcase my ability to solve real-world problems including, but certainly not limited to, optimizing employee allocation, assessing risk, estimating product value, forecasting sales, and obfuscating sensitive client data. An overview of each of the 16 projects I did for TripleTen's bootcamp can be found [HERE].(https://github.com/ChStLeGitHub/Data-Projects-TripleTen).
+
 ## **Education**
 
 Certificate of Completion | Data Science | TripleTen | April 2024
